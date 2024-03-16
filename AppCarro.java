@@ -12,8 +12,8 @@ public class AppCarro {
         carro1.motor.tipo = "a";
 
         carro2.cor = "rosa";
-        carro2.marca = "fiat";
-        carro2.modelo = "uno";
+        carro2.marca = "BMW";
+        carro2.modelo = "X6";
         carro2.velocidadeMax = 200.0;
         carro2.velocidadeAtual = 100.0;
         carro2.motor.potencia = 40;
